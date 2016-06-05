@@ -22,6 +22,6 @@ public class RegistrationServer {
 	public static void main(String[] args) {
 
 		SpringApplication.run(RegistrationServer.class, args);
-		System.out.println("Hola");
+	
 	}
 }
